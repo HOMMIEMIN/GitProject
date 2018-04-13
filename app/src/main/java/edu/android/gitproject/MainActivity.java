@@ -17,10 +17,10 @@ public class MainActivity extends AppCompatActivity {
         
 
         textView = findViewById(R.id.textView);
-        texView.setText("HOMMIEMIN");
+        textView.setText("HOMMIEMIN");
 
 
-        
+
         Button button = findViewById(R.id.button);
     }
 }
